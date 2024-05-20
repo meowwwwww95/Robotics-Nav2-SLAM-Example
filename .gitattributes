@@ -43,3 +43,6 @@ Repositories.ini eol=lf
 *.tt eol=crlf
 *.t4 eol=crlf
 *.ttinclude eol=crlf
+Nav2SLAMExampleProject/Assets/Prefabs/SmartHome.FBX filter=lfs diff=lfs merge=lfs -text
+Nav2SLAMExampleProject/Assets/Mixamo/Ch31_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+readmes/images/goal_pose.gif filter=lfs diff=lfs merge=lfs -text
