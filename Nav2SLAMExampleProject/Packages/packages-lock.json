@@ -9,6 +9,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.cinemachine": {
+      "version": "2.6.17",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.5.7",
       "depth": 0,
@@ -159,6 +166,13 @@
         "com.unity.robotics.urdf-importer": "0.3.0"
       },
       "hash": "9fa61061d31b30686573bd2e0213f049738a8949"
+    },
+    "com.unity.scripting.python": {
+      "version": "7.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
     },
     "com.unity.searcher": {
       "version": "4.3.2",

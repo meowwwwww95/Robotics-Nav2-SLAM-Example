@@ -6,6 +6,10 @@ TagManager:
   tags:
   - robot
   - Waypoint
+  - Shelf
+  - Floor
+  - Switch
+  - Door
   layers:
   - Default
   - TransparentFX
